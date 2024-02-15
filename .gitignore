@@ -1,3 +1,4 @@
 nlp_course_env/
 *.tar.gz*
 *_data/
+lightning_logs/
